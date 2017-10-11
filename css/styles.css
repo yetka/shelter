@@ -16,3 +16,7 @@ img {
 body {
   font-style: italic;
 }
+ .column p {
+   font-style: normal;
+   color: gray; 
+ }
